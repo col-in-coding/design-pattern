@@ -12,4 +12,4 @@ In Strategy pattern, we create a Strategy interface defining an action and concr
 ## Singleton Pattern
 In Singleton Pattern, the instantiation of a class is restricted to one object.
 
-In a Singleton class, there is a private static variable holding the instance. And the contructor is private to use. Also, a public static function '''getInstance()''' will be call whenever to get the instance. 
+In a Singleton class, there is a private static variable holding the instance. And the contructor is private to use. Also, a public static function ```ClassName::getInstance()``` will be call whenever to get the instance. 
